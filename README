@@ -1,0 +1,5 @@
+The maven repository for http://binkley.blogspot.com.
+
+Contains:
+
+* com.google.protobuf.tools:maven-protoc-plugin - See http://github.com/binkley/maven-protoc-plugin.
