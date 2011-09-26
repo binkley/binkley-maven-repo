@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.google.protobuf.tools</groupId>
+  <artifactId>maven-protoc-plugin</artifactId>
+  <version>0.1.11-descriptor_set_out-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110926.173114</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20110926173114</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1.11-descriptor_set_out-20110926.173114-1</value>
+        <updated>20110926173114</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.11-descriptor_set_out-20110926.173114-1</value>
+        <updated>20110926173114</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

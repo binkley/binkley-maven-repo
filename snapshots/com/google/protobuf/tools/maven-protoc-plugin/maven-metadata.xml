@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.protobuf.tools</groupId>
+  <artifactId>maven-protoc-plugin</artifactId>
+  <versioning>
+    <latest>0.1.11-descriptor_set_out-SNAPSHOT</latest>
+    <versions>
+      <version>0.1.11-descriptor_set_out-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110926173114</lastUpdated>
+  </versioning>
+</metadata>
