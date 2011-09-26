@@ -5,20 +5,20 @@
   <version>0.1.11-descriptor_set_out-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20110926.181722</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20110926.181908</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
-    <lastUpdated>20110926181722</lastUpdated>
+    <lastUpdated>20110926181908</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.11-descriptor_set_out-20110926.181722-4</value>
-        <updated>20110926181722</updated>
+        <value>0.1.11-descriptor_set_out-20110926.181908-5</value>
+        <updated>20110926181908</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.11-descriptor_set_out-20110926.181722-4</value>
-        <updated>20110926181722</updated>
+        <value>0.1.11-descriptor_set_out-20110926.181908-5</value>
+        <updated>20110926181908</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
